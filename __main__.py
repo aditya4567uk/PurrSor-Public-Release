@@ -68,7 +68,7 @@ console.print(" If you want to change cat then NOTE any one of the NAMES listed 
 console.print(" then go to config folder", style="bold cyan")
 console.print(" there you will find a file name default_config.yml", style="bold cyan")
 console.print(" open that file and at 2nd last line after animal: give any name you noted previously", style="bold cyan")
-console.print(" For example ->  animal: siver , this will give you grey color cat", style="bold cyan")
+console.print(" For example ->  animal: silver , this will give you grey color cat", style="bold cyan")
 
 #inp = input('what cat do you want??')
 
