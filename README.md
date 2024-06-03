@@ -1,5 +1,5 @@
 <H1>Welcome to PurrSor Project 🐱🖱</H1> 
-<p align="center"><img src=""/></p>
+<p align="center"><img src="prrsor.PNG"/></p>
 It's just a set of fancy cute cats following up your mouse cursor, You can interact with tham and play with them as much you want.
 You can choose variety of cats (Totally depends on your personal taste!!).
 <hr>
@@ -27,7 +27,7 @@ AND GOOD JOB, YOUR KITTY WILL APPEAR ON SCREEN</br>
 <hr>
 <H1>How to change cats?</H1>
 There are lots of cats available, feel free to explore them by the following steps:-</br>
-Here you can see all name of the cats (some of them are not even cats, like alien).</br>
+Here you can see all name of the cats (some of them are not even cats, like alien).</br></br>
 list of cats = [
     'ace',
     'air',
@@ -55,11 +55,11 @@ list of cats = [
     'valentine',
     'white'
 ]
-</br>
+</br></br>
  If you want to change cat then NOTE any one of the NAMES listed above</br>
  ->then go to config folder</br>
  ->there you will find a file name default_config.yml</br>
  ->open that file and at 2nd last line after animal: give any name you noted previously</br>
- For example ->  animal: siver , this will give you grey color cat</br>
+ For example ->  animal: silver , this will give you grey color cat</br>
  <hr>
  <H1 align="center">THANKS !!</H1>
