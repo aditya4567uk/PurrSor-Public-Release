@@ -62,4 +62,10 @@ list of cats = [
  ->open that file and at 2nd last line after animal: give any name you noted previously</br>
  For example ->  animal: silver , this will give you grey color cat</br>
  <hr>
+ <p align="center">
+ <img src="Screenshot (730).png"/>
+ <img src="Screenshot (731).png"/>
+ <img src="Screenshot (732).png"/>
+ <img src="Screenshot (734).png"/>
+ </p>
  <H1 align="center">THANKS !!</H1>
